@@ -1,0 +1,1 @@
+Lowest test loss: RNN (6.0009).\nHighest test accuracy: LSTM (0.1187).\nFastest training: RNN (3.8 seconds).\nUse the generated samples and diagnostics to justify the overall best model.
